@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Patil</h1>
 <h3 align="center">A passionate python automation developer from India</h3>
 
-- 🔭 I’m currently working on **Intelligent automation**
+- 🔭 I’m currently working on **Intelligent automation project**
 
 - 🌱 I’m currently learning **Data structures and algorithms using python**
 
